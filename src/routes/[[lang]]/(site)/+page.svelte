@@ -1,0 +1,1 @@
+Hello from [[lang]]/(site)/+page.svelte
